@@ -33,7 +33,7 @@ There are ... scripts
     - Fig3_TS3_TS4_code.R 
 
 ## Description of the R scripts 
-### 1. Fig3_TS3_TS4_code.R
+### 1. Fig3_TableS3_TableS4_code.R
 
 Aim: Analyze and visualize chemical richness, Shannon diversity, and partial least squares discriminant analysis (PLS-DA) to compare control and 5-day herbivory treatments within each plant species
 
