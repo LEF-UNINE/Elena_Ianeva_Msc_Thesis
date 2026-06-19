@@ -36,11 +36,14 @@ There are ... scripts
 ### 1. Fig3_TS3_TS4_code.R
 
 Aim: Analyze and visualize chemical richness, Shannon diversity, and partial least squares discriminant analysis (PLS-DA) to compare control and 5-day herbivory treatments within each plant species
+
 Outputs generated: 
  - Fig 3 : Chemical Richness, Shannon diversity and PLS-DA comparisons between control and 5-day herbivory treatments within the following plant species : *M. aquaticum*, *M. hippuroides*, *L. repens*, *L. grandiflora* and *P. palustris*
  - Table S3: Statistical results for chemical richness
  - Table S4: Statistical results for Shannon diversity
+
 Files used in this script: 
+
     - formatted_peak_table.csv
     - MetaData_Elena_26.csv
 
