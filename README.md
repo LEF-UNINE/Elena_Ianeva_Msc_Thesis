@@ -6,6 +6,8 @@ There are ... datasets
 
     - formatted_peak_table.csv
     - MetaData_Elena_26.csv
+    - data_larvae.csv
+    - cox_model.csv
     
 ## Description of the different datasets    
 ### 1. formatted_peak_table.csv
@@ -14,7 +16,7 @@ This table contains metabolite features and their corresonding peak intensities
 
 ### 2. MetaData_Elena_26.csv
    
-This table contains :
+This dataset includes the following variables :
  - the filename of the sample
  - the type of the sample (qc/blank/sample)
  - the run date (date of the chemical analysis)
@@ -25,6 +27,25 @@ This table contains :
  - the treatment (Control / Herbivory 1 day / Herbivory 5 days / Mechanical Damage)
  - the wet weight of the sample (in mg)
  - the quantity used for the extraction (in mg)
+
+### 3. data_larvae.csv
+
+This dataset includes the following variables :
+ - the name of the sample
+ - the plant species (*M. aquaticum* / *M. hippuroides* / *L. repens* / *L. grandiflora* / *P. palustris*)
+ - the survival (binary : 0 (dead) OR 1 (alive))
+ - the treatment (Control / Induced). NB: Induced is equivalent to Herbivory 5 days and is recoded as such in the R script.
+ - the Batch (1/2/3)
+
+### 4. cox_model.csv
+
+This dataset includes the following variables : 
+ - the sample id
+ - the time
+ - the status
+ - the plant species (*M. aquaticum* / *M. hippuroides* / *L. repens* / *L. grandiflora* / *P. palustris*)
+ - the treatment (Control / Hebivory 5 days)
+ - Survival to pupa
 
 
 ## R scripts    
