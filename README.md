@@ -7,7 +7,7 @@ There are ... datasets
     - formatted_peak_table.csv
     - MetaData_Elena_26.csv
     - data_larvae.csv
-    - cox_model.csv
+    - cox_model.xlsx
     
 ## Description of the different datasets    
 ### 1. formatted_peak_table.csv
@@ -37,7 +37,7 @@ This dataset includes the following variables :
  - treatment (Control / Induced). NB: Induced is equivalent to Herbivory 5 days and is recoded as such in the R script.
  - Batch (1/2/3)
 
-### 4. cox_model.csv
+### 4. cox_model.xlsx
 
 This dataset includes the following variables : 
  - sample id
@@ -84,7 +84,7 @@ Outputs generated:
 Files used in this script: 
 
     - data_larvae.csv
-    - cox_model.csv
+    - cox_model.xlsx
 
 
 
