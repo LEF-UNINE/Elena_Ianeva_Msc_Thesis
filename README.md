@@ -5,16 +5,23 @@ This is a repository for the code and the data used for my Master's Thesis
 There are ... datasets
 
     - formatted_peak_table.csv
+    - formatted_annotation.csv
     - MetaData_Elena_26.csv
+    - MetaData_Elena_26_with_survival.csv
     - data_larvae.csv
     - cox_model.xlsx
     
-## Description of the different datasets    
+## Description of the different datasets  
+
 ### 1. formatted_peak_table.csv
    
 This table contains metabolite features and their corresonding peak intensities 
 
-### 2. MetaData_Elena_26.csv
+### 2. formatted_annotation.csv
+
+This table contains metabolite identification information.
+
+### 3. MetaData_Elena_26.csv
    
 This dataset includes the following variables :
  - the filename of the sample
@@ -28,7 +35,11 @@ This dataset includes the following variables :
  - wet weight of the sample (in mg)
  - quantity used for the extraction (in mg)
 
-### 3. data_larvae.csv
+### 4. MetaData_Elena_26_with_survival.csv
+
+This dataset is identical to MetaData_Elena_26.csv, with the addition of a binary Survival variable for M. hippuroides samples: 0 = larva did not reach the pupal stage, 1 = larva reached the pupal stage
+
+### 5. data_larvae.csv
 
 This dataset includes the following variables :
  - name of the sample
@@ -37,7 +48,7 @@ This dataset includes the following variables :
  - treatment (Control / Induced). NB: Induced is equivalent to Herbivory 5 days and is recoded as such in the R script.
  - Batch (1/2/3)
 
-### 4. cox_model.xlsx
+### 6. cox_model.xlsx
 
 This dataset includes the following variables : 
  - sample id
@@ -53,6 +64,7 @@ There are ... scripts
 
     - chem_richness_shannon_diversity_PLSDA.R 
     - larval_survival_development.R
+    - random_forest_analysis.R
 
 ## Description of the R scripts 
 ### 1. chem_richness_shannon_diversity_PLSDA.R
@@ -60,7 +72,7 @@ There are ... scripts
 Aim: Analyze and visualize chemical richness, Shannon diversity, and partial least squares discriminant analysis (PLS-DA) to compare control and 5-day herbivory treatments within each plant species
 
 Outputs generated: 
- - Fig 3 : Chemical Richness, Shannon diversity and PLS-DA comparisons between control and 5-day herbivory treatments within the following plant species : *M. aquaticum*, *M. hippuroides*, *L. repens*, *L. grandiflora* and *P. palustris*
+ - Figure 3 : Chemical Richness, Shannon diversity and PLS-DA comparisons between control and 5-day herbivory treatments within the following plant species : *M. aquaticum*, *M. hippuroides*, *L. repens*, *L. grandiflora* and *P. palustris*
  - Table S3: Statistical results for chemical richness
  - Table S4: Statistical results for Shannon diversity
 
@@ -74,7 +86,7 @@ Files used in this script:
 Aim: Analyse and visualize Lysathia cilliersae survival and development 
 
 Outputs generated: 
- - Fig 1 : Observed survival (%) on each plant species (*M. aquaticum*, *M. hippuroides*, *L. repens*, *L. grandiflora* and *P. palustris*) under Control and 5-day herbivory treatments 
+ - Figure 1 : Observed survival (%) on each plant species (*M. aquaticum*, *M. hippuroides*, *L. repens*, *L. grandiflora* and *P. palustris*) under Control and 5-day herbivory treatments 
  - Table 1: Analysis of fixed effects from the Bayesian generalized model used to analyze the observed survival on each plant species under the two conditions
  - Table 2: Pairwise comparisons of Treatment effects within each plant species based on estimated marginal means (emmeans) from the Bayesian generalized linear model
  - Figure S3: Diagnostic plots of scaled residuals from the Bayesian generalized linear model 
@@ -85,6 +97,22 @@ Files used in this script:
 
     - data_larvae.csv
     - cox_model.xlsx
+
+### 3. random_forest_analysis.R
+
+Aim: Random forest analysis to identify features associated with Lysathia cilliersae survival on Myriophyllum hippuroides
+
+Outputs generated: 
+- Figure 4 : Abundance of the two features retained after the filtering across the five tested plant species
+- Table 5: Coefficients from generalized linear models testing the effect of each selected feature on survival
+- Figure S7: The 30 most important features identified by the random forest model, ranked according to their contribution to classification performance 
+
+
+Files used in this script: 
+
+    - formatted_annotation.csv
+    - formatted_peak_table.csv
+    - MetaData_Elena_26_with_survival.csv
 
 
 
