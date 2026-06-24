@@ -103,7 +103,7 @@ Files used in this script:
 Aim: Random forest analysis to identify features associated with Lysathia cilliersae survival on Myriophyllum hippuroides
 
 Outputs generated: 
-- Figure 4 : Abundance of the two features retained after the filtering across the five tested plant species
+- Figure 6 : Abundance of the two features retained after the filtering across the five tested plant species
 - Table 5: Coefficients from generalized linear models testing the effect of each selected feature on survival
 - Figure S7: The 30 most important features identified by the random forest model, ranked according to their contribution to classification performance 
 
