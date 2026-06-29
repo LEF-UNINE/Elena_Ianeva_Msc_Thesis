@@ -2,7 +2,7 @@
 This is a repository for the code and the data used for my Master's Thesis
 
 ## Datasets
-There are ... datasets
+There are 8 datasets
 
     - formatted_peak_table.csv
     - formatted_annotation.csv
