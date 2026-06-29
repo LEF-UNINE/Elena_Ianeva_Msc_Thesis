@@ -101,7 +101,7 @@ Files used in this script:
 
 ### 3. random_forest_analysis.R
 
-Aim: Random forest analysis to identify features associated with Lysathia cilliersae survival on Myriophyllum hippuroides
+Aim: Random forest analysis to identify features associated with Lysathia cilliersae survival on *Myriophyllum hippuroides*
 
 Outputs generated: 
 - Figure 6 : Abundance of the two features retained after the filtering across the five tested plant species
@@ -119,10 +119,10 @@ Files used in this script:
 Aim: Overview of pathway regulation across plant species and treatments 
 
 Outputs generated: 
-- Figure 4 : Species-specific effect sizes of herbivory-induced changes in metabolomic pathways after 5 days of exposure to L. cilliersae
-- Figure 5: Effect sizes of herbivory-induced changes in metabolomic pathways after 1 day of exposure to L. cilliersae in M. aquaticum
+- Figure 4 : Species-specific effect sizes of herbivory-induced changes in metabolomic pathways after 5 days of exposure to *L. cilliersae*
+- Figure 5: Effect sizes of herbivory-induced changes in metabolomic pathways after 1 day of exposure to *L. cilliersae* in *M. aquaticum*
 - Table S5: Pathway-level pooled effect sizes (Hedges’g) for herbivory-treated (5 days) versus control samples across plant species
-- Table S6: Pathway-level pooled effect sizes (Hedges’g) for herbivory-treated (1 day) versus control samples in M. aquaticum
+- Table S6: Pathway-level pooled effect sizes (Hedges’g) for herbivory-treated (1 day) versus control samples in *M. aquaticum*
 
 Files used in this script: 
 
