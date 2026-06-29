@@ -11,7 +11,7 @@ There are 8 datasets
     - data_larvae.csv
     - cox_model.xlsx
     - feature.csv
-    - MetaData - Copie.csv
+    - MetaData.csv
     
     
 ## Description of the different datasets  
@@ -91,7 +91,8 @@ There are 5 scripts
     - pathways.R
     - supp_mat.R
 
-## Description of the R scripts 
+## Description of the R scripts
+
 ### 1. chem_richness_shannon_diversity_PLSDA.R
 
 Aim: Analyze and visualize chemical richness, Shannon diversity, and partial least squares discriminant analysis (PLS-DA) to compare control and 5-day herbivory treatments within each plant species
