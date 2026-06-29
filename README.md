@@ -10,6 +10,9 @@ There are ... datasets
     - MetaData_Elena_26_with_survival.csv
     - data_larvae.csv
     - cox_model.xlsx
+    - feature.csv
+    - MetaData - Copie.csv
+    
     
 ## Description of the different datasets  
 
@@ -60,12 +63,13 @@ This dataset includes the following variables :
 
 
 ## R scripts    
-There are ... scripts
+There are 5 scripts
 
     - chem_richness_shannon_diversity_PLSDA.R 
     - larval_survival_development.R
     - random_forest_analysis.R
     - pathways.R
+    - supp_mat.R
 
 ## Description of the R scripts 
 ### 1. chem_richness_shannon_diversity_PLSDA.R
@@ -128,6 +132,25 @@ Files used in this script:
 
     - formatted_annotation.csv
     - formatted_peak_table.csv
+
+### 5. supp_mat.R
+
+Aim: Generate supplementary Figures and Tables
+
+Outputs generated: 
+- Figure S4 : Partial Least Squares Discriminant Analysis (PLS-DA) score plot showing discrimination between control samples (0 h) and samples subjected to different exposure durations to *L. cilliersae*
+- Figure S5: Partial Least Squares Discriminant Analysis (PLS-DA) score plot showing discrimination between the 5-day herbivory treatment and the mechanical damage treatments
+- Figure S6: Non-metric Multidimensional Scaling (NMDS) score plot showing discrimination of metabolomic profiles according to plant species and treatment conditions
+- Table S2: Pairwise PERMANOVA comparisons between Exposure Time groups
+
+Files used in this script:
+
+    - formatted_annotation.csv
+    - formatted_peak_table.csv
+    - feature.csv
+    - MetaData.csv
+    
+
 
 
 
