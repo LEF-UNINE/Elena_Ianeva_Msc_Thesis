@@ -61,6 +61,26 @@ This dataset includes the following variables :
  - treatment (Control / Hebivory 5 days)
  - Survival to pupa (binary : 0 (yes) 1 (no))
 
+### 7. feature.csv
+
+This table contains metabolite features and their corresonding peak intensities (pilot study samples)
+
+### 8. MetaData.csv
+
+This dataset includes the following variables : 
+ - Filename
+ - Sample_name_researcher
+ - SampleType (QC OR sample)
+ - Extraction date
+ - Measurment date
+ - Plant_sp (*M. aquaticum*)
+ - Test_date
+ - Treatment (Control / Test)
+ - Time_exposed (24h/120h/72h)
+ - Subsample
+ - Wet_weight_mg
+
+
 
 ## R scripts    
 There are 5 scripts
