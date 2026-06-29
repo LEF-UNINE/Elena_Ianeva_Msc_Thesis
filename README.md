@@ -37,7 +37,7 @@ This dataset includes the following variables :
 
 ### 4. MetaData_Elena_26_with_survival.csv
 
-This dataset is identical to MetaData_Elena_26.csv, with the addition of a binary Survival variable for M. hippuroides samples: 0 = larva did not reach the pupal stage, 1 = larva reached the pupal stage
+This dataset is identical to MetaData_Elena_26.csv, with the addition of a binary Survival variable for *M. hippuroides* samples: 0 = larva did not reach the pupal stage, 1 = larva reached the pupal stage
 
 ### 5. data_larvae.csv
 
