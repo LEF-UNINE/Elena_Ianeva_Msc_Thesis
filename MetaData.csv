@@ -1,0 +1,76 @@
+﻿Filename;Sample_name_researcher;SampleType;Extraction date;Measurment date;Plant_sp;Test_date;Treatment;Time_exposed;Subsample;Wet_weight_mg;Remaks
+X250924_EI_QC_1_nr8.mzML.Peak.area;QC1;QC;24.09.2025;24.09.2025;;;;;;;
+X250924_EI_QC_2_nr8.mzML.Peak.area;QC2;QC;24.09.2025;24.09.2025;;;;;;;
+X250924_EI_QC_3_nr8.mzML.Peak.area;QC3;QC;24.09.2025;24.09.2025;;;;;;;
+X250924_EI_QC_4_nr8.mzML.Peak.area;QC4;QC;24.09.2025;24.09.2025;;;;;;;
+X250924_EI_QC_5_nr8.mzML.Peak.area;QC5;QC;24.09.2025;24.09.2025;;;;;;;
+X250924_EI_sample_10_nr8.mzML.Peak.area;10;sample;24.09.2025;24.09.2025;M. aquaticum;27.08.2025;Test;24h;10;121;
+X250924_EI_sample_11_nr8.mzML.Peak.area;11;sample;24.09.2025;24.09.2025;M. aquaticum;27.08.2025;Test;24h;11;130;M. aquaticum canada
+X250924_EI_sample_12_nr8.mzML.Peak.area;12;sample;24.09.2025;24.09.2025;M. aquaticum;27.08.2025;Test;24h;12;129;M. aquaticum canada
+X250924_EI_sample_13_nr8.mzML.Peak.area;13;sample;24.09.2025;24.09.2025;M. aquaticum;27.08.2025;Control;24h;13;129;
+X250924_EI_sample_14_nr8.mzML.Peak.area;14;sample;24.09.2025;24.09.2025;M. aquaticum;27.08.2025;Control;24h;14;124.2;
+X250924_EI_sample_15_nr8.mzML.Peak.area;15;sample;24.09.2025;24.09.2025;M. aquaticum;27.08.2025;Control;24h;15;127.1;
+X250924_EI_sample_16_nr8.mzML.Peak.area;16;sample;24.09.2025;24.09.2025;M. aquaticum;27.08.2025;Control;24h;16;124.88;
+X250924_EI_sample_17_nr8.mzML.Peak.area;17;sample;24.09.2025;24.09.2025;M. aquaticum;27.08.2025;Control;24h;17;130;
+X250924_EI_sample_18_nr8.mzML.Peak.area;18;sample;24.09.2025;24.09.2025;M. aquaticum;27.08.2025;Control;24h;18;127.3;
+X250924_EI_sample_19_nr8.mzML.Peak.area;19;sample;24.09.2025;24.09.2025;M. aquaticum;27.08.2025;Control;24h;19;126.7;
+X250924_EI_sample_1_nr8.mzML.Peak.area;1;sample;24.09.2025;24.09.2025;M. aquaticum;27.08.2025;Test;24h;1;122.2;
+X250924_EI_sample_20_nr8.mzML.Peak.area;20;sample;24.09.2025;24.09.2025;M. aquaticum;27.08.2025;Control;24h;20;130;
+X250924_EI_sample_21_nr8.mzML.Peak.area;21;sample;24.09.2025;24.09.2025;M. aquaticum;27.08.2025;Control;24h;21;121.2;
+X250924_EI_sample_22_nr8.mzML.Peak.area;22;sample;24.09.2025;24.09.2025;M. aquaticum;27.08.2025;Control;24h;22;135.4;
+X250924_EI_sample_23_nr8.mzML.Peak.area;23;sample;24.09.2025;24.09.2025;M. aquaticum;27.08.2025;Control;24h;23;124.4;M. aquaticum canada
+X250924_EI_sample_24_nr8.mzML.Peak.area;24;sample;24.09.2025;24.09.2025;M. aquaticum;27.08.2025;Control;24h;24;124.5;M. aquaticum canada
+X250924_EI_sample_25_nr8.mzML.Peak.area;25;sample;24.09.2025;24.09.2025;M. aquaticum;28.08.2025;Test;120h;25;112.5;
+X250924_EI_sample_26_nr8.mzML.Peak.area;26;sample;24.09.2025;24.09.2025;M. aquaticum;28.08.2025;Test;120h;26;116;
+X250924_EI_sample_27_nr8.mzML.Peak.area;27;sample;24.09.2025;24.09.2025;M. aquaticum;28.08.2025;Test;120h;27;119.1;
+X250924_EI_sample_28_nr8.mzML.Peak.area;28;sample;24.09.2025;24.09.2025;M. aquaticum;28.08.2025;Test;120h;28;133.3;
+X250924_EI_sample_29_nr8.mzML.Peak.area;29;sample;24.09.2025;24.09.2025;M. aquaticum;28.08.2025;Test;120h;29;134.5;
+X250924_EI_sample_2_nr8.mzML.Peak.area;2;sample;24.09.2025;24.09.2025;M. aquaticum;27.08.2025;Test;24h;2;124.5;
+X250924_EI_sample_30_nr8.mzML.Peak.area;30;sample;24.09.2025;24.09.2025;M. aquaticum;28.08.2025;Test;120h;30;123;
+X250924_EI_sample_31_nr8.mzML.Peak.area;31;sample;24.09.2025;24.09.2025;M. aquaticum;28.08.2025;Test;120h;31;134.5;
+X250924_EI_sample_32_nr8.mzML.Peak.area;32;sample;24.09.2025;24.09.2025;M. aquaticum;28.08.2025;Test;120h;32;113.7;
+X250924_EI_sample_33_nr8.mzML.Peak.area;33;sample;24.09.2025;24.09.2025;M. aquaticum;28.08.2025;Test;120h;33;116.4;
+X250924_EI_sample_34_nr8.mzML.Peak.area;34;sample;24.09.2025;24.09.2025;M. aquaticum;28.08.2025;Test;120h;34;132.2;
+X250924_EI_sample_35_nr8.mzML.Peak.area;35;sample;24.09.2025;24.09.2025;M. aquaticum;28.08.2025;Test;120h;35;124.3;
+X250924_EI_sample_36_nr8.mzML.Peak.area;36;sample;24.09.2025;24.09.2025;M. aquaticum;28.08.2025;Test;120h;36;138.3;
+X250924_EI_sample_37_nr8.mzML.Peak.area;37;sample;24.09.2025;24.09.2025;M. aquaticum;28.08.2025;Control;120h;37;122.1;
+X250924_EI_sample_38_nr8.mzML.Peak.area;38;sample;24.09.2025;24.09.2025;M. aquaticum;28.08.2025;Control;120h;38;120.4;
+X250924_EI_sample_39_nr8.mzML.Peak.area;39;sample;24.09.2025;24.09.2025;M. aquaticum;28.08.2025;Control;120h;39;119.3;
+X250924_EI_sample_3_nr8.mzML.Peak.area;3;sample;24.09.2025;24.09.2025;M. aquaticum;27.08.2025;Test;24h;3;122;
+X250924_EI_sample_40_nr8.mzML.Peak.area;40;sample;24.09.2025;24.09.2025;M. aquaticum;28.08.2025;Control;120h;40;125;
+X250924_EI_sample_41_nr8.mzML.Peak.area;41;sample;24.09.2025;24.09.2025;M. aquaticum;28.08.2025;Control;120h;41;131.7;
+X250924_EI_sample_42_nr8.mzML.Peak.area;42;sample;24.09.2025;24.09.2025;M. aquaticum;28.08.2025;Control;120h;42;113.7;
+X250924_EI_sample_43_nr8.mzML.Peak.area;43;sample;24.09.2025;24.09.2025;M. aquaticum;28.08.2025;Control;120h;43;134.2;
+X250924_EI_sample_44_nr8.mzML.Peak.area;44;sample;24.09.2025;24.09.2025;M. aquaticum;28.08.2025;Control;120h;44;114.4;
+X250924_EI_sample_45_nr8.mzML.Peak.area;45;sample;24.09.2025;24.09.2025;M. aquaticum;28.08.2025;Control;120h;45;138.4;
+X250924_EI_sample_46_nr8.mzML.Peak.area;46;sample;24.09.2025;24.09.2025;M. aquaticum;28.08.2025;Control;120h;46;128;
+X250924_EI_sample_47_nr8.mzML.Peak.area;47;sample;24.09.2025;24.09.2025;M. aquaticum;28.08.2025;Control;120h;47;124;
+X250924_EI_sample_48_nr8.mzML.Peak.area;48;sample;24.09.2025;24.09.2025;M. aquaticum;28.08.2025;Control;120h;48;124.2;
+X250924_EI_sample_4_nr8.mzML.Peak.area;4;sample;24.09.2025;24.09.2025;M. aquaticum;27.08.2025;Test;24h;4;129.5;
+X250924_EI_sample_5_nr8.mzML.Peak.area;5;sample;24.09.2025;24.09.2025;M. aquaticum;27.08.2025;Test;24h;5;124.6;
+X250924_EI_sample_6_nr8.mzML.Peak.area;6;sample;24.09.2025;24.09.2025;M. aquaticum;27.08.2025;Test;24h;6;125;
+X250924_EI_sample_7_nr8.mzML.Peak.area;7;sample;24.09.2025;24.09.2025;M. aquaticum;27.08.2025;Test;24h;7;127.3;
+X250924_EI_sample_8_nr8.mzML.Peak.area;8;sample;24.09.2025;24.09.2025;M. aquaticum;27.08.2025;Test;24h;8;125;
+X250924_EI_sample_9_nr8.mzML.Peak.area;9;sample;24.09.2025;24.09.2025;M. aquaticum;27.08.2025;Test;24h;9;125.1;
+X250924_EI_sample_PF_10_1_nr8.mzML.Peak.area;PF_10_1;sample;24.09.2025;24.09.2025;M. aquaticum;29.08.2025;Test;72h;PF10.1;101.3;
+X250924_EI_sample_PF_10_2_nr8.mzML.Peak.area;PF_10_2;sample;24.09.2025;24.09.2025;M. aquaticum;29.08.2025;Test;72h;PF10.2;106.8;
+X250924_EI_sample_PF_12_1_nr8.mzML.Peak.area;PF12_1;sample;24.09.2025;24.09.2025;M. aquaticum;29.08.2025;Test;72h;PF12.1;102.2;
+X250924_EI_sample_PF_12_2_nr8.mzML.Peak.area;PF12_2;sample;24.09.2025;24.09.2025;M. aquaticum;29.08.2025;Test;72h;PF12.2;100.3;
+X250924_EI_sample_PF_1_1_nr8.mzML.Peak.area;PF_1_1;sample;24.09.2025;24.09.2025;M. aquaticum;29.08.2025;Control;72h;PF1.1;110;
+X250924_EI_sample_PF_1_2_nr8.mzML.Peak.area;PF_1_2;sample;24.09.2025;24.09.2025;M. aquaticum;29.08.2025;Control;72h;PF1.2;118.4;the cylinder was borken…
+X250924_EI_sample_PF_2_1_nr8.mzML.Peak.area;PF_2_1;sample;24.09.2025;24.09.2025;M. aquaticum;29.08.2025;Control;72h;PF2.1;118.5;
+X250924_EI_sample_PF_2_2_nr8.mzML.Peak.area;PF_2_2;sample;24.09.2025;24.09.2025;M. aquaticum;29.08.2025;Control;72h;PF2.2;102.6;
+X250924_EI_sample_PF_3_1_nr8.mzML.Peak.area;PF_3_1;sample;24.09.2025;24.09.2025;M. aquaticum;29.08.2025;Control;72h;PF3.1;105.3;
+X250924_EI_sample_PF_3_2_nr8.mzML.Peak.area;PF_3_2;sample;24.09.2025;24.09.2025;M. aquaticum;29.08.2025;Control;72h;PF3.2;107.3;
+X250924_EI_sample_PF_4_1_nr8.mzML.Peak.area;PF_4_1;sample;24.09.2025;24.09.2025;M. aquaticum;29.08.2025;Control;72h;PF4.1;108.4;
+X250924_EI_sample_PF_4_2_nr8.mzML.Peak.area;PF_4_2;sample;24.09.2025;24.09.2025;M. aquaticum;29.08.2025;Control;72h;PF4.2;110.8;
+X250924_EI_sample_PF_5_1_nr8.mzML.Peak.area;PF_5_1;sample;24.09.2025;24.09.2025;M. aquaticum;29.08.2025;Control;72h;PF5.1;104;
+X250924_EI_sample_PF_5_2_nr8.mzML.Peak.area;PF_5_2;sample;24.09.2025;24.09.2025;M. aquaticum;29.08.2025;Control;72h;PF5.2;108.8;
+X250924_EI_sample_PF_6_1_nr8.mzML.Peak.area;PF_6_1;sample;24.09.2025;24.09.2025;M. aquaticum;29.08.2025;Control;72h;PF6.1;102.5;
+X250924_EI_sample_PF_6_2_nr8.mzML.Peak.area;PF_6_2;sample;24.09.2025;24.09.2025;M. aquaticum;29.08.2025;Control;72h;PF6.2;102.7;
+X250924_EI_sample_PF_7_1_nr8.mzML.Peak.area;PF_7_1;sample;24.09.2025;24.09.2025;M. aquaticum;29.08.2025;Test;72h;PF7.1;112.5;
+X250924_EI_sample_PF_7_2_nr8.mzML.Peak.area;PF_7_2;sample;24.09.2025;24.09.2025;M. aquaticum;29.08.2025;Test;72h;PF7.2;102.4;
+X250924_EI_sample_PF_8_1_nr8.mzML.Peak.area;PF_8_1;sample;24.09.2025;24.09.2025;M. aquaticum;29.08.2025;Test;72h;PF8.1;113.1;
+X250924_EI_sample_PF_8_2_nr8.mzML.Peak.area;PF_8_2;sample;24.09.2025;24.09.2025;M. aquaticum;29.08.2025;Test;72h;PF8.2;106;
+X250924_EI_sample_PF_9_1_nr8.mzML.Peak.area;PF_9_1;sample;24.09.2025;24.09.2025;M. aquaticum;29.08.2025;Test;72h;PF9.1;111.7;
+X250924_EI_sample_PF_9_2_nr8.mzML.Peak.area;PF_9_2;sample;24.09.2025;24.09.2025;M. aquaticum;29.08.2025;Test;72h;PF9.2;101.5;
