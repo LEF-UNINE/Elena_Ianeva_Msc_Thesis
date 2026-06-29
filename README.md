@@ -65,6 +65,7 @@ There are ... scripts
     - chem_richness_shannon_diversity_PLSDA.R 
     - larval_survival_development.R
     - random_forest_analysis.R
+    - pathways.R
 
 ## Description of the R scripts 
 ### 1. chem_richness_shannon_diversity_PLSDA.R
@@ -107,12 +108,26 @@ Outputs generated:
 - Table 5: Coefficients from generalized linear models testing the effect of each selected feature on survival
 - Figure S7: The 30 most important features identified by the random forest model, ranked according to their contribution to classification performance 
 
-
 Files used in this script: 
 
     - formatted_annotation.csv
     - formatted_peak_table.csv
     - MetaData_Elena_26_with_survival.csv
+
+### 4. pathways.R
+
+Aim: Overview of pathway regulation across plant species and treatments 
+
+Outputs generated: 
+- Figure 4 : Species-specific effect sizes of herbivory-induced changes in metabolomic pathways after 5 days of exposure to L. cilliersae
+- Figure 5: Effect sizes of herbivory-induced changes in metabolomic pathways after 1 day of exposure to L. cilliersae in M. aquaticum
+- Table S5: Pathway-level pooled effect sizes (Hedges’g) for herbivory-treated (5 days) versus control samples across plant species
+- Table S6: Pathway-level pooled effect sizes (Hedges’g) for herbivory-treated (1 day) versus control samples in M. aquaticum
+
+Files used in this script: 
+
+    - formatted_annotation.csv
+    - formatted_peak_table.csv
 
 
 
